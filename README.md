@@ -5,3 +5,5 @@ In this project, I predicted the fuel efficiency of cars, using regression model
 The dataset used in this project is from the UCI machine learning repository and concerns the city-cycle fuel consumption of cars, with 8 features as follows: (number of cylinders, displacement (engine size), horsepower, weight, acceleration, model year, origin, car name.) There are 398 records.
 
 The main objective of this project is to logically deduce which regression model is most suitable for the prediction of fuel efficiency using this data set, to assess and compare the performance of the selected regression models and highlight any key learnings along the way.
+
+**Please review the jupyter notebook file provided**
